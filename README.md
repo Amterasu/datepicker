@@ -19,6 +19,7 @@
  **如何使用**
 
  - npm insatll
+ - (如报错相关依赖没有则安装相关依赖 npm install better-scroll --save)
  - npm run dev
  - 访问localhost
 **props**
